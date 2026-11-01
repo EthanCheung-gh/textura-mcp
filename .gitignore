@@ -6,3 +6,4 @@ coverage/
 *.log
 npm-debug.log*
 .openbitfun/
+/.openbitfun/search/flashgrep-index/
